@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "",
+    "lastName": "pepe",
+    "email": "lautarovaldez11@hotmail.com",
+    "password": "123"
+  },
+  {
+    "id": 2,
+    "name": "",
+    "lastName": "pepe",
+    "email": "aarfini@icana.org.ar",
+    "password": "741"
+  },
+  {
+    "id": 3,
+    "name": "",
+    "lastName": "pepe",
+    "email": "aarfini@icana.org.ar",
+    "password": "741"
+  },
+  {
+    "id": 4,
+    "name": "hola",
+    "lastName": "",
+    "email": "aarfini@icana.org.ar",
+    "password": ""
+  },
+  {
+    "id": 5,
+    "name": "pepe",
+    "lastName": "pepe",
+    "email": "aarfini@icana.org.ar",
+    "password": "123"
+  },
+  {
+    "id": 6,
+    "name": "pepe",
+    "lastName": "pepe",
+    "email": "aarfini@icana.org.ar",
+    "password": "123"
+  },
+  {
+    "id": 7,
+    "name": "Nahuel",
+    "lastName": "pepe",
+    "email": "lautarovaldez4@gmail.com",
+    "password": "123"
+  },
+  {
+    "id": 8,
+    "name": "Nahuel",
+    "lastName": "pepe",
+    "email": "lautarovaldez4@gmail.com",
+    "password": "147"
+  },
+  {
+    "id": 9,
+    "name": "jose",
+    "lastName": "pedro",
+    "email": "lautarovaldez4@gmail.com",
+    "password": "456"
+  },
+  {
+    "id": 10,
+    "name": "",
+    "lastName": "",
+    "email": "",
+    "password": ""
+  },
+  {
+    "id": 11,
+    "name": "",
+    "lastName": "pepe",
+    "email": "lautarovaldezs4@gmail.com",
+    "password": "123"
+  },
+  {
+    "id": 12,
+    "name": "hola",
+    "lastName": "pedro",
+    "email": "lautarovaldsadz4@gmail.com",
+    "password": "564"
+  },
+  {
+    "id": 13,
+    "nombre": "Nahuel",
+    "apellido": "pepe",
+    "email": "lautarovaldez2311@hotmail.com",
+    "password": "$2b$12$ozxCTF6ekcMr.QnrCnILPOXSN6DEgz6AT7QoopfpopN4tvzq1KZYu",
+    "img": "avatar-1612372345142.jpg"
+  }
+]

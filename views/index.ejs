@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>formulario de registro</h1>
+    <form action="/register" method="POST" enctype="multipart/form-data">
+      <input type="text" placeholder="nombre" name="nombre">
+      <input type="text" placeholder="apellido" name="apellido">
+      <input type="email" placeholder="email" name="email">
+      <input type="password" placeholder="password" name="pass">
+      <input type="password" placeholder="repeat password" name="pass2">
+      <input type="file" name="avatar">
+      <button type="submit">enviar</button>
+    </form>
+    <% if (typeof error != 'undefined') { %>
+      <p><%- error %>  </p>
+    <% } %>
+
+    <a href="/login">ya tenes una cuenta</a>
+  </body>
+</html>
